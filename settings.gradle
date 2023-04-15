@@ -14,3 +14,7 @@ dependencyResolutionManagement {
 }
 rootProject.name = "ListUserGithub"
 include ':app'
+include ':core'
+include ':settings'
+include ':favorite'
+include ':detailuser'
